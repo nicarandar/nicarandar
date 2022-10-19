@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicarandar
+- 🙋‍♂️ Hello, I’m @nicarandar
 - 👀 I’m interested in web development, apps, videogames, films and theatre
 - 👨‍💻 I'm actually looking for job as Web Developer
 - 🌱 I’m currently learning React native
