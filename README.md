@@ -1,6 +1,6 @@
 - 🙋‍♂️ Hello, I’m @nicarandar
-- 👀 I’m interested in web development, apps, videogames, films and theatre
-- 👨‍💻 I'm actually looking for job as Web Developer
+- 👀 I’m interested in web development, apps, video games, films and theatre
+- 👨‍💻 I'm actually looking for job as Software Developer
 - 🌱 I’m currently learning React native
 - 📫 How to reach me: narandarobayna@gmail.com
 
