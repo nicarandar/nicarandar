@@ -1,6 +1,6 @@
 - 🙋‍♂️ Hello, I’m @nicarandar
 - 👀 I’m interested in web development, apps and video games
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: narandarobayna@gmail.com
 
 <!---
