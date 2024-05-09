@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My actual stack</h2>
+<h2 align="left">My stack</h2>
 
 ###
 
