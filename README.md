@@ -1,20 +1,20 @@
-<h1 align="left">Welcome to my profile ✨</h1>
+<h1 align="left">Bienvenid@ a mi perfil ✨</h1>
 
 ###
 
-<p align="left">I am Nicolás Aranda, Full Stack Developer from Canary Islands.</p>
+<p align="left">Soy Nicolás Aranda, desarrollador Full Stack.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
-<p align="left">👨🏽‍💻 Multimedia Engineer <br> 📱  Actually working on a personal project using React Native<br>🌍 Interested in making a positive change</p>
+<p align="left">👨🏽‍💻 Ingeniero Multimedia <br> 🚀 Desarrollo sitios web para negocios. <br>🌍 Interesado en aportar un cambio positivo.</p>
 
 ###
 
-<h2 align="left">My stack</h2>
+<h2 align="left">Mi stack</h2>
 
 ###
 
@@ -36,18 +36,18 @@
 
 ###
 
-<h2 align="left">Last project</h2>
-<a href="https://quitatelamascara.es/" target="_blank">https://quitatelamascara.es/</a>
-<p>Responsive website for a theatre festival implemented with Astro🚀, React.js⚛ and AWS for the deployment</p>
+<h2 align="left">Mi sitio web </h2>
+<a href="https://nicolasaranda.dev/" target="_blank">https://nicolasaranda.dev/</a>
+<p>Mi sitio web profesional 🚀</p>
 
 ###
 
-<h2 align="left">How to reach me</h2>
+<h2 align="left">Para contactarme</h2>
 
 ###
 
 <div align="left">
-  <a href="mailto:narandarobayna@gmail.com" target="_blank">
+  <a href="mailto:contacto@nicolasaranda.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nicolás-aranda/" target="_blank">
