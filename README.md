@@ -38,7 +38,6 @@
 
 <h2 align="left">Mi sitio web </h2>
 <a href="https://nicolasaranda.dev/" target="_blank">https://nicolasaranda.dev/</a>
-<p>Mi sitio web profesional 🚀</p>
 
 ###
 
