@@ -37,7 +37,7 @@
 ###
 
 <h2 align="left">Mi sitio web </h2>
-<a href="https://nicolasaranda.dev/" target="_blank">https://nicolasaranda.dev/</a>
+<a href="https://nicolasaranda.es/" target="_blank">https://nicolasaranda.es/</a>
 
 ###
 
